@@ -2,4 +2,4 @@
 - 👀 I’m interested in web development, game development, javascript, python, microframework, phaserjs, react, ...
 - 🌱 I’m currently learning phaser.js
 - 💞️I am collaborating with reflab srl.
-- 📫 michelangelog@gmx.com
+- 📫 michelangelog@gmail.com
